@@ -3,4 +3,4 @@ Quelques liens intéressants
 = Liens généraux =
 
   * http://go-lang.cat-v.org/text-editors/ 
-  * http://golang.org/ golang.org
+  * http://golang.org/ 
