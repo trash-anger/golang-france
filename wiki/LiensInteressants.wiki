@@ -9,3 +9,10 @@ Quelques liens intéressants
 
   * [http://www.miek.nl/projects/learninggo/index.html Learning Go]
   * [http://jan.newmarch.name/go/ Network programming with Go]
+  * [http://go-lang.cat-v.org/doc/effective-go.pdf Effective Go]
+
+= Editeurs =
+Il existe pleins d'extensions à des éditeurs existants, mais je ne retiens pour le moment que les deux principaux IDE pour Go
+
+  * [http://code.google.com/p/goclipse/ GoClipse]
+  * [http://code.google.com/p/golangide/ Golangide]
