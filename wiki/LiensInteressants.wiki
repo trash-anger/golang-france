@@ -5,7 +5,7 @@ Quelques liens intéressants
   * http://go-lang.cat-v.org/text-editors/ 
   * http://golang.org/ 
 
-= Livres web
+= Livres web =
 
   * [http://www.miek.nl/projects/learninggo/index.html Learning Go]
   * [http://jan.newmarch.name/go/ Network programming with Go]
