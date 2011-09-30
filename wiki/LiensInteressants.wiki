@@ -7,5 +7,5 @@ Quelques liens intéressants
 
 = Livres web
 
-  * [[http://www.miek.nl/projects/learninggo/index.html Learnoing Go]]
-  * [[http://jan.newmarch.name/go/ Network programming with Go]]
+  * [http://www.miek.nl/projects/learninggo/index.html Learning Go]
+  * [http://jan.newmarch.name/go/ Network programming with Go]
