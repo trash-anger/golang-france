@@ -9,3 +9,4 @@ Cette page liste tous les documents actuellement traduits en français :
   * [http://code.google.com/p/golang-france/downloads/detail?name=Gestion%20des%20erreurs%20en%20Go.pdf&can=2&q=#makechanges Gestion des erreurs en Go]
   * [http://code.google.com/p/golang-france/downloads/detail?name=defer%2C%20panic%20et%20%28ha%29recover.pdf&can=2&q=#makechanges Defer, panic et (ha)recover]
   * [http://code.google.com/p/golang-france/downloads/detail?name=Pratique%20de%20la%20programmation%20en%20go.pdf&can=2&q=#makechanges Pratique de la programmation en Go]
+  * [http://code.google.com/p/golang-france/downloads/detail?name=D%C3%A9bugger%20du%20code%20Go%20avec%20GDB.pdf&can=2&q= Débugger du code Go avec GDB]
