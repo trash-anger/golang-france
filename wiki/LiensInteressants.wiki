@@ -7,9 +7,12 @@ Quelques liens intéressants
 
 = Livres web =
 
+  * [http://code.google.com/p/go-tour/ go-tour]
+  * [http://go-tour-fr.appspot.com/#1 go-tour en français]
   * [http://www.miek.nl/projects/learninggo/index.html Learning Go]
   * [http://jan.newmarch.name/go/ Network programming with Go]
   * [http://go-lang.cat-v.org/doc/effective-go.pdf Effective Go]
+  * [http://fr.wikibooks.org/wiki/Programmation_en_Go Programmation en Go]
 
 = Editeurs =
 Il existe pleins d'extensions à des éditeurs existants, mais je ne retiens pour le moment que les deux principaux IDE pour Go
