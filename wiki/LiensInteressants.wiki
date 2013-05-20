@@ -8,7 +8,7 @@ Quelques liens intéressants
 = Livres web =
 
   * [http://code.google.com/p/go-tour/ go-tour]
-  * [http://go-tour-fr.appspot.com/#1 go-tour en français]
+  * [http://go-tour-fr.appspot.com/#1 go-tour en français] ( [http://code.google.com/p/go-tour-french/ les sources], quelques pages à traduire encore)
   * [http://www.miek.nl/projects/learninggo/index.html Learning Go]
   * [http://jan.newmarch.name/go/ Network programming with Go]
   * [http://go-lang.cat-v.org/doc/effective-go.pdf Effective Go]
